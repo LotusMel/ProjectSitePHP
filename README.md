@@ -1,4 +1,4 @@
-# ProjectSite
+# ProjectSitePHP
 MIT License
 
 Copyright (c) [year] [fullname]
